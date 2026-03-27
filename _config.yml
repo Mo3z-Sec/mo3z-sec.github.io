@@ -14,36 +14,37 @@ timezone: Asia/Riyadh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mo3z-Sec # the main title
+title: M03Z # the main title
 
 tagline: My notes from the offensive side # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  description testing.
+  A hands-on cybersecurity blog by Abdul Rahman. Exploring offensive security
+  through CTF challenges, penetration testing, and real-world homelab practice.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://m03z.github.io"
+url: "https://mo3z-sec.github.io"
 
 github:
   username: mo3z-sec # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: M03Z
+  name: abdul moez
   email: moesprivatee@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # change to your Twitter homepage
     - https://github.com/mo3z-sec # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/abdul-rahman-mohamed-moez-8129a2392
 
 # Site Verification Settings
 webmaster_verifications:
@@ -120,7 +121,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: mo3z-sec/m03z.github.io
+    repo: mo3z-sec/mo3z-sec.github.io
     repo_id: R_kgDORxweHA
     category: General
     category_id: DIC_kwDORxweHM4C5XOi
